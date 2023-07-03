@@ -1,0 +1,17 @@
+C:\Users\cengiz\source\repos\hafta  5\hafta  5\bin\Debug\net7.0-windows\hafta  5.exe
+C:\Users\cengiz\source\repos\hafta  5\hafta  5\bin\Debug\net7.0-windows\hafta  5.deps.json
+C:\Users\cengiz\source\repos\hafta  5\hafta  5\bin\Debug\net7.0-windows\hafta  5.runtimeconfig.json
+C:\Users\cengiz\source\repos\hafta  5\hafta  5\bin\Debug\net7.0-windows\hafta  5.dll
+C:\Users\cengiz\source\repos\hafta  5\hafta  5\bin\Debug\net7.0-windows\hafta  5.pdb
+C:\Users\cengiz\source\repos\hafta  5\hafta  5\obj\Debug\net7.0-windows\hafta  5.csproj.AssemblyReference.cache
+C:\Users\cengiz\source\repos\hafta  5\hafta  5\obj\Debug\net7.0-windows\hafta__5.Form1.resources
+C:\Users\cengiz\source\repos\hafta  5\hafta  5\obj\Debug\net7.0-windows\hafta  5.csproj.GenerateResource.cache
+C:\Users\cengiz\source\repos\hafta  5\hafta  5\obj\Debug\net7.0-windows\hafta  5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cengiz\source\repos\hafta  5\hafta  5\obj\Debug\net7.0-windows\hafta  5.AssemblyInfoInputs.cache
+C:\Users\cengiz\source\repos\hafta  5\hafta  5\obj\Debug\net7.0-windows\hafta  5.AssemblyInfo.cs
+C:\Users\cengiz\source\repos\hafta  5\hafta  5\obj\Debug\net7.0-windows\hafta  5.csproj.CoreCompileInputs.cache
+C:\Users\cengiz\source\repos\hafta  5\hafta  5\obj\Debug\net7.0-windows\hafta  5.dll
+C:\Users\cengiz\source\repos\hafta  5\hafta  5\obj\Debug\net7.0-windows\refint\hafta  5.dll
+C:\Users\cengiz\source\repos\hafta  5\hafta  5\obj\Debug\net7.0-windows\hafta  5.pdb
+C:\Users\cengiz\source\repos\hafta  5\hafta  5\obj\Debug\net7.0-windows\hafta  5.genruntimeconfig.cache
+C:\Users\cengiz\source\repos\hafta  5\hafta  5\obj\Debug\net7.0-windows\ref\hafta  5.dll
